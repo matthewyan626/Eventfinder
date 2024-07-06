@@ -2,7 +2,7 @@ import axios from 'axios'
 import { API_URL } from '../utils/constants';
 
 
-/* const url = "https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyCQFhEZDsFLlcMRwKRf7bTKyoqMg3ot6V0&address="; */
+/* const url = get google maps url and API key */
 const url = 'http://localhost:8080/api/search/geolocate';
 
 const geolocate = async (location) => {
