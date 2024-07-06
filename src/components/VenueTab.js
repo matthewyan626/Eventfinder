@@ -3,7 +3,6 @@ import { useState, useEffect } from 'react'
 import VenueMap from './VenueMap'
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 
-//AIzaSyAUOaqvIuBuaQqPT57bQ_t8qNu8IiJXGSw
 
 
 const VenueTab = (venueDetails) => {
